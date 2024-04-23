@@ -1,6 +1,6 @@
 public class APLine
 {
-  private in a, r, c;
+  private int a, r, c;
   public APLine ( int a1, int a2, int a3){
 a = a1;
     r = a2;
